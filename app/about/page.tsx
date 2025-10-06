@@ -96,7 +96,7 @@ export default function AboutPage() {
         {/* CTA Section */}
         <section className="py-20 bg-background">
           <div className="container mx-auto px-4 text-center">
-            <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6">Ready to Bloom?</h2>
+            <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6">Ready to Elevate Your Look?</h2>
             <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
               Explore our collection of premium wigs and hair products designed to help you look and feel your absolute
               best.

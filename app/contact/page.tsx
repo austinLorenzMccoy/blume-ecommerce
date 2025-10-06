@@ -109,7 +109,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-semibold mb-1">Email Us</h3>
-                        <p className="text-muted-foreground">support@blume.com</p>
+                        <p className="text-muted-foreground">support@tefanyhair.com</p>
                         <p className="text-sm text-muted-foreground mt-1">We'll respond within 24 hours</p>
                       </div>
                     </div>

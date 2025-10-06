@@ -62,7 +62,7 @@ export const useAuthStore = create<AuthStore>()(
       },
     }),
     {
-      name: "blume-auth",
+      name: "tefanyhair-auth",
     },
   ),
 )
