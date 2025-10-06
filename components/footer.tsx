@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           <div className="flex flex-col gap-4">
             <Link href="/" className="flex items-center gap-2">
-              <span className="font-serif text-2xl font-bold tracking-tight">Blume</span>
+              <span className="font-serif text-2xl font-bold tracking-tight">TefanyHair</span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Premium quality wigs and hair extensions for the modern woman. Embrace your beauty with confidence.
@@ -85,7 +85,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-border/40 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Blume. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} TefanyHair. All rights reserved.</p>
         </div>
       </div>
     </footer>

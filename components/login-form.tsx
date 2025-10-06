@@ -46,7 +46,7 @@ export function LoginForm() {
           <Card>
             <CardHeader className="text-center">
               <CardTitle className="font-serif text-3xl">Welcome Back</CardTitle>
-              <CardDescription>Sign in to your Blume account</CardDescription>
+              <CardDescription>Sign in to your TefanyHair account</CardDescription>
             </CardHeader>
             <CardContent>
               <form onSubmit={handleSubmit} className="flex flex-col gap-6">

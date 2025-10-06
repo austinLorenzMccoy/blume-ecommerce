@@ -35,7 +35,7 @@ export function AdminContent() {
         <div className="container mx-auto flex h-16 items-center justify-between px-4">
           <div className="flex items-center gap-8">
             <Link href="/admin" className="flex items-center gap-2">
-              <span className="font-serif text-2xl font-bold tracking-tight">Blume Admin</span>
+              <span className="font-serif text-2xl font-bold tracking-tight">TefanyHair Admin</span>
             </Link>
           </div>
           <div className="flex items-center gap-4">

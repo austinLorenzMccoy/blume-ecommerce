@@ -11,7 +11,7 @@ export default function AboutPage() {
       <main className="flex-1">
         {/* Hero Section */}
         <section className="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden">
-          <Image src="/elegant-african-woman-with-beautiful-hair-portrait.jpg" alt="Blume Story" fill className="object-cover" priority />
+          <Image src="/elegant-african-woman-with-beautiful-hair-portrait.jpg" alt="TefanyHair Story" fill className="object-cover" priority />
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/60" />
           <div className="relative z-10 container mx-auto px-4 text-center text-white">
             <h1 className="font-serif text-5xl md:text-7xl font-bold mb-6 text-balance">Our Story</h1>
@@ -26,9 +26,9 @@ export default function AboutPage() {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto">
               <div className="text-center mb-16">
-                <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6">Why Blume?</h2>
+                <h2 className="font-serif text-4xl md:text-5xl font-bold mb-6">Why TefanyHair?</h2>
                 <p className="text-lg text-muted-foreground leading-relaxed">
-                  Blume means "to bloom" — and that's exactly what we help you do. We believe every woman deserves to
+                  TefanyHair means confidence — and that's exactly what we help you build. We believe every woman deserves to
                   feel confident and beautiful in her own skin.
                 </p>
               </div>
@@ -45,7 +45,7 @@ export default function AboutPage() {
                 <div>
                   <h3 className="font-serif text-2xl font-bold mb-4">Our Promise</h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    Every Blume product is crafted with care, tested for quality, and designed to last. We stand behind
+                    Every TefanyHair product is crafted with care, tested for quality, and designed to last. We stand behind
                     our products with exceptional customer service and a commitment to your satisfaction. Your
                     confidence is our success.
                   </p>

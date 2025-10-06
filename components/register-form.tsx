@@ -59,7 +59,7 @@ export function RegisterForm() {
           <Card>
             <CardHeader className="text-center">
               <CardTitle className="font-serif text-3xl">Create Account</CardTitle>
-              <CardDescription>Join Blume and start shopping</CardDescription>
+              <CardDescription>Join TefanyHair and start shopping</CardDescription>
             </CardHeader>
             <CardContent>
               <form onSubmit={handleSubmit} className="flex flex-col gap-6">

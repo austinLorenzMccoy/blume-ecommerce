@@ -24,8 +24,8 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Blume - Luxury Wigs & Hair Extensions",
-  description: "Discover premium quality wigs and hair extensions. Transform your look with Blume.",
+  title: "TefanyHair - Luxury Wigs & Hair Extensions",
+  description: "Discover premium quality wigs and hair extensions. Transform your look with TefanyHair.",
   generator: "v0.app",
 }
 

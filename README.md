@@ -1,4 +1,4 @@
-# Blume E-commerce
+# TefanyHair
 
 A modern Next.js 15 (App Router) e-commerce storefront with Tailwind CSS 4, Radix UI, and Zustand for state.
 

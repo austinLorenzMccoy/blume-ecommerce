@@ -22,7 +22,7 @@ export function Newsletter() {
         <div className="mx-auto max-w-2xl text-center">
           <div className="flex flex-col gap-6">
             <div className="flex flex-col gap-4">
-              <h2 className="font-serif text-3xl md:text-4xl font-bold tracking-tight">Join the Blume Community</h2>
+              <h2 className="font-serif text-3xl md:text-4xl font-bold tracking-tight">Join the TefanyHair Community</h2>
               <p className="text-lg text-muted-foreground">
                 Subscribe to receive exclusive offers, hair care tips, and early access to new collections.
               </p>
